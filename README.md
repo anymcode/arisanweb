@@ -292,8 +292,8 @@ Solusi:
 This project is open source and available under the MIT License.
 
 ## 👨‍💻 Developer
-
-Dibuat dengan ❤️ untuk memudahkan pengelolaan arisan tradisional dengan teknologi modern.
+Templat di buat mengunakan vibe code untuk memudahkan pengelolaan arisan tradisional dengan teknologi modern.
+Manual integrasi backend dan dbs mysql
 
 ## 📞 Support
 
