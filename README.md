@@ -1,3 +1,5 @@
+![Teks Alternatif](Screenshot_2025-11-29_23_36_46.png)
+
 # 🎲 Sistem Arisan Digital
 
 Aplikasi web fullstack untuk manajemen arisan dengan sistem undian otomatis. Dibuat dengan PHP, MySQL, dan Tailwind CSS dengan tema dark/blackbox yang modern dan menarik.
